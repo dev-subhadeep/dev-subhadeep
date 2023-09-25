@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+##Links
+
+LinkedIn: https://www.linkedin.com/in/subhadeep-xcv/
+Portfolio: https://dev-subhadeep.github.io/
+
 <!--
 **dev-subhadeep/dev-subhadeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
