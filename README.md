@@ -3,6 +3,7 @@
 ## Links:
 
 LinkedIn: https://www.linkedin.com/in/subhadeep-xcv/
+
 Portfolio: https://dev-subhadeep.github.io/
 
 <!--
